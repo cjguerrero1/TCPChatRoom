@@ -1,0 +1,6 @@
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\cjgue\onedrive\documents\visual studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
